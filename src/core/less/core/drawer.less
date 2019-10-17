@@ -8,9 +8,11 @@
   width: @drawer-width;
   z-index: 100;
 
-  overflow-y: auto;
-  overflow-x: hidden;
-  -webkit-overflow-scrolling: touch;
+  //CL MOD
+  //overflow-y: auto;
+  //overflow-x: hidden;
+  //-webkit-overflow-scrolling: touch;
+  //end CL MOD:
 
   .dir-rtl & {
     right: inherit;
@@ -20,13 +22,22 @@
   &__inner {
     position: relative;
     height: 100%;
+    //CL MOD:
+    padding-top: @navigation-height;
+    //end CL MOD:
   }
 
   // --------------------------------------------------
   // Add top padding equal to the height of the navigation bar
   // --------------------------------------------------
   &__holder {
-    padding-top: @navigation-height;
+    //CL MOD:
+    //padding-top: @navigation-height;
+    height: 100%;
+    overflow-y: auto;
+    overflow-x: hidden;
+    -webkit-overflow-scrolling: touch;
+    //end CL MOD:
   }
   // --------------------------------------------------
 

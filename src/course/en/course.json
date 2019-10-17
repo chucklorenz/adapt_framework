@@ -115,6 +115,678 @@
             }
         ]
     },
+    "_glossary": {
+        "_isEnabled": true,
+        "_drawerOrder": 1,
+        "title": "Glossary",
+        "description": "View essential definitions",
+        "_isIndexEnabled": true,
+        "_isGroupHeadersEnabled": true,
+        "_isSearchEnabled": true,
+        "searchItemsAlert": "{{filteredItems.length}} found.",
+        "clearSearch": "Clear Search",
+        "searchPlaceholder": "Search",
+        "searchWithInDescriptionLabel": "Search within Description",
+        "itemNotFoundMessage": "No results found",
+        "_glossaryItems": [
+            {
+                "description": "In or behind the stern of a ship. Nearer the stern than; behind. \"the yacht has a shower just abaft the galley\".",
+                "term": "abaft"
+            },
+            {
+                "description": "A way to signal the affirmative; \"OK\"",
+                "term": "10-4"
+            },
+            {
+                "description": "someone who wears glasses",
+                "term": "4-eyes"
+            },
+            {
+                "description": "At right angles to the keel of the boat, but not on the boat.",
+                "term": "abeam"
+            },
+            {
+                "description": "On or in the boat.",
+                "term": "aboard"
+            },
+            {
+                "description": "On the deck.",
+                "term": "above deck"
+            },
+            {
+                "description": "Side by side; by the side of.",
+                "term": "abreast"
+            },
+            {
+                "description": "American Boat and Yacht Council, Inc.",
+                "term": "ABYC"
+            },
+            {
+                "description": "Loose, not secured to mooring or towlines.",
+                "term": "adrift"
+            },
+            {
+                "description": "On the water.",
+                "term": "afloat"
+            },
+            {
+                "description": "Toward the rear or stern of the boat.",
+                "term": "aft"
+            },
+            {
+                "description": "A continued cooling of a patient's core temperature during the initial stages of rewarming from hypothermia.",
+                "term": "afterdrop"
+            },
+            {
+                "description": "Touching bottom.",
+                "term": "aground"
+            },
+            {
+                "description": "In a forward direction.",
+                "term": "ahead"
+            },
+            {
+                "description": "Markers on land or sea which are located to enable navigators to avoid danger and fix their position.",
+                "term": "aids to navigation"
+            },
+            {
+                "description": "Away from the direction of the wind. Opposite of windward.",
+                "term": "alee"
+            },
+            {
+                "description": "Above the deck of the boat.",
+                "term": "aloft"
+            },
+            {
+                "description": "A rapid increase or accumulation in the population of algae in freshwater or marine water systems, and is recognized by the discoloration in the water from their pigments",
+                "term": "algal blooms"
+            },
+            {
+                "description": "Center or middle of the boat.",
+                "term": "amidship"
+            },
+            {
+                "description": "1. An iron casting shaped to grip the lake bottom to hold the boat.<br>2. The act of setting the anchor.",
+                "term": "anchor"
+            },
+            {
+                "description": "A line used to hold a vessel fast to the anchor.",
+                "term": "anchor line"
+            },
+            {
+                "description": "On the shore.",
+                "term": "ashore"
+            },
+            {
+                "description": "Toward the stern.",
+                "term": "astern"
+            },
+            {
+                "description": " A maneuver in which a ship's propelling mechanism is used to develop thrust in a retrograde direction.",
+                "term": "astern propulsion"
+            },
+            {
+                "description": "At right angles of the center of the vessel.",
+                "term": "athwartships"
+            },
+            {
+                "description": "The motion of receding waves.",
+                "term": "backwash"
+            },
+            {
+                "description": "To remove water from the bottom of the boat with a pump, bucket, sponge, etc.",
+                "term": "bail"
+            },
+            {
+                "description": "A miniature livewell used to store and keep live bait alive and healthy.",
+                "term": "baitwell"
+            },
+            {
+                "description": "Secure hatches and loose objects both within the hull and on deck.",
+                "term": "batten down"
+            },
+            {
+                "description": "The widest point on the boat.",
+                "term": "beam"
+            },
+            {
+                "description": "Relative position or direction of an object from the boat.",
+                "term": "bearing"
+            },
+            {
+                "description": "Beneath the deck; within the cabin.",
+                "term": "below"
+            },
+            {
+                "description": "Location on rope or line where knot is made.",
+                "term": "bight"
+            },
+            {
+                "description": "The lowest interior section of the boat hull.",
+                "term": "bilge"
+            },
+            {
+                "description": "Fan activated prior to starting engine, used to guide reaction exhaust gases away from a controlled combustion inside an engine compartment (bilge).",
+                "term": "bilge blower"
+            },
+            {
+                "description": "The raised areas or aluminum extrusions on the bottom of a boat that parallel the keel.",
+                "term": "bilge keels"
+            },
+            {
+                "description": "A short shaft with a fitting at one end shaped to facilitate use in putting a line over a piling, recovering an object dropped overboard, or in pushing or fending off.",
+                "term": "boat hook"
+            },
+            {
+                "description": "To enter the boat.",
+                "term": "boarding"
+            },
+            {
+                "description": "Of the sea or clouds, turbulent and stormy.",
+                "term": "boil"
+            },
+            {
+                "description": "A body of water between two areas of jurisdiction; e.g., a river between two states.",
+                "term": "boundary waters"
+            },
+            {
+                "description": "The front of the boat.",
+                "term": "bow"
+            },
+            {
+                "description": "The location from which a vessel is steered and its speed controlled. \"Control Station\" is really a more appropriate term for small craft.",
+                "term": "bridge"
+            },
+            {
+                "description": "Vertical partition (wall) in a boat.",
+                "term": "bulkhead"
+            },
+            {
+                "description": "Carpeted trailer hull supports.",
+                "term": "bunks"
+            },
+            {
+                "description": "An anchored float used for marking a position on the water or a hazard or a shoal and for mooring.",
+                "term": "buot"
+            },
+            {
+                "description": "Term for the boat that must “give-way” to boats with the right-of-way.",
+                "term": "burdened boat"
+            },
+            {
+                "description": "A flag bearing the colors or emblem of a sailing club, typically triangular.",
+                "term": "burgees"
+            },
+            {
+                "description": "A plate that provides maximum weight capacity and engine horsepower rating information. It is located in full view of the helm.",
+                "term": "capacity plate"
+            },
+            {
+                "description": "To turn over. Carburetor Back Flame Arrestor A safety device",
+                "term": "capsize"
+            },
+            {
+                "description": "To unfasten mooring lines in preparation for departure.",
+                "term": "cast off"
+            },
+            {
+                "description": "A twin-hulled boat, with hulls side by side.",
+                "term": "catamaran"
+            },
+            {
+                "description": "A lengthwise imaginary line which runs fore and aft with the boat’s keel.",
+                "term": "centerline"
+            },
+            {
+                "description": "The point on a boat where the side intersects (meets) the bottom.",
+                "term": "chine"
+            },
+            {
+                "description": "A fitting through which anchor or mooring lines are led. Usually U-shaped to reduce chafe.",
+                "term": "chock"
+            },
+            {
+                "description": "A deck fitting with ears to which lines are fastened.",
+                "term": "cleat"
+            },
+            {
+                "description": "Also called helm. The steering wheel area of the boat.",
+                "term": "console"
+            },
+            {
+                "description": "Direction in which boat is navigated and steered.",
+                "term": "course"
+            },
+            {
+                "description": "The main battery used for engine starting and electrical circuits.",
+                "term": "cranking battery"
+            },
+            {
+                "description": "A small shelter cabin in a boat.",
+                "term": "cuddy"
+            },
+            {
+                "description": "Water moving in horizontal direction.",
+                "term": "current"
+            },
+            {
+                "description": "The area encompassed from dead ahead of your boat to just abaft your starboard beam. You must stand clear of any boat in the \"danger zone\".",
+                "term": "danger zone"
+            },
+            {
+                "description": "A fixed navigation structure used in shallow water upon which is placed one or more daymarks.",
+                "term": "day beacon"
+            },
+            {
+                "description": "Directly ahead.",
+                "term": "dead ahead"
+            },
+            {
+                "description": "Directly aft.",
+                "term": "dead astern"
+            },
+            {
+                "description": "A sunken or partially submerged log.",
+                "term": "dead head"
+            },
+            {
+                "description": "The navigational art of determining your position based on course steered and speed rather than through obtaining a position from other means; using a chart or electronic device.",
+                "term": "dead reckoning"
+            },
+            {
+                "description": "The open surface on the boat where the passengers walk.",
+                "term": "deck"
+            },
+            {
+                "description": "Special long-running batteries which can be repeatedly discharged and recharged without significant loss of power.",
+                "term": "deep cycle batteries"
+            },
+            {
+                "description": "A small open boat. A dinghy is often used as a tender for a larger craft.",
+                "term": "dinghy"
+            },
+            {
+                "description": "The weight of water displaced by a floating vessel, thus, a boat's weight.",
+                "term": "displacement"
+            },
+            {
+                "description": "A type of hull that plows through the water, displacing a weight of water equal to its own weight, even when more power is added.",
+                "term": "displacement hull"
+            },
+            {
+                "description": "A protected water area in which vessels are secured. The term is often used incorrectly to denote a pier or a wharf. The dock is the water adjacent to a pier or wharf.",
+                "term": "dock"
+            },
+            {
+                "description": "The depth of water needed to float a ship. \"the shallow draft enabled her to get close to shore\".",
+                "term": "draft"
+            },
+            {
+                "description": "A wood or metal plug stopping up the drainage hole near the keel of a boat and removable when the boat is dry-docked to drain out bilge water.",
+                "term": "drain plugs"
+            },
+            {
+                "description": "The method which is used to assist a ship in maneuvering during unavailability or inability of other boats to assist. A dredging anchor sniffing the bottom of the ship would hold the bow steady while allowing a ship to move fore and aft, this would shift the ship's pivot point forward.",
+                "term": "dredging anchor"
+            },
+            {
+                "description": "The breakup of metals due to the effects of galvanic corrosion.",
+                "term": "electrolysis"
+            },
+            {
+                "description": "The point under International Rules of the Road (Navigation Rules) at which the privileged (or stand-on) vessel on collision course with a burdened (or give-way) vessel determines it must maneuver to avoid a collision. Prior to extremis, the privileged vessel must maintain course and speed and the burdened vessel must maneuver to avoid collision.",
+                "term": "extremis"
+            },
+            {
+                "description": "Unit of depth or measure; 1 fathom equals 6 feet.",
+                "term": "fathom"
+            },
+            {
+                "description": "Objects placed alongside the boat for cushioning. Sometimes called bumpers.",
+                "term": "fenders"
+            },
+            {
+                "description": "A knot in the form of a figure eight, placed at the end of a line to prevent the line from passing through a grommet or a block.",
+                "term": "figure eight knot"
+            },
+            {
+                "description": "The second in command of a ship.",
+                "term": "first mate"
+            },
+            {
+                "description": "A pyrotechnic device used to signal a distress. The outward curve of a vessel's sides near the bow.",
+                "term": "flare"
+            },
+            {
+                "description": "The part of an anchor that is designed to dig in to the bottom.",
+                "term": "fluke"
+            },
+            {
+                "description": "Fill with water and sink. To capsize or sink.",
+                "term": "foundering"
+            },
+            {
+                "description": "Toward the front or bow of the boat. Opposite of aft.",
+                "term": "fore"
+            },
+            {
+                "description": "The distance from the water to the gunwale.",
+                "term": "freeboard"
+            },
+            {
+                "description": "Rush of fresh water flowing into the sea.",
+                "term": "freshet"
+            },
+            {
+                "description": "The electrical device that is mounted on the outside of a built-in fuel tank and controls the dashboard fuel gauge.",
+                "term": "fuel sending unit"
+            },
+            {
+                "description": "The kitchen area of a boat.",
+                "term": "galley"
+            },
+            {
+                "description": "The area of a ship's side where people board and disembark.",
+                "term": "gangway"
+            },
+            {
+                "description": "A term used to describe the vessel which must yield in meeting, crossing, or overtaking situations.",
+                "term": "give-way vessel"
+            },
+            {
+                "description": "A form of position finding using radio transmissions from satellites with sophisticated on-board automatic equipment.",
+                "term": "global positioning system (GPS)"
+            },
+            {
+                "description": "The rail or upper edge of a boat’s side.",
+                "term": "gunwale"
+            },
+            {
+                "description": "An opening fitted with a watertight cover.",
+                "term": "hatch"
+            },
+            {
+                "description": "A marine toilet.",
+                "term": "head"
+            },
+            {
+                "description": "Forward motion, opposite of sternway.",
+                "term": "headway"
+            },
+            {
+                "description": "The steering wheel or command area.",
+                "term": "helm"
+            },
+            {
+                "description": "Person who steers a ship or boat.",
+                "term": "helmsman"
+            },
+            {
+                "description": "A compartment below deck in a large vessel, used solely for carrying cargo.",
+                "term": "hold"
+            },
+            {
+                "description": "The body of the boat.",
+                "term": "hull"
+            },
+            {
+                "description": "A physical condition where the body loses heat faster than it can produce it.",
+                "term": "hypothermia"
+            },
+            {
+                "description": "1. More toward the center of a vessel; inside.<br>2. A motor fitted inside a boat.",
+                "term": "inboard"
+            },
+            {
+                "description": "A type of fuse located in the power wire of a direct current (DC) circuit usually near the battery.",
+                "term": "in-line fuse"
+            },
+            {
+                "description": "Bays, rivers, and canals along the coasts connected so that vessels may travel without going into the sea.",
+                "term": "Intracoastal Waterway"
+            },
+            {
+                "description": "A rope ladder, lowered from the deck, as when pilots or passengers come aboard.",
+                "term": "Jacob's ladder"
+            },
+            {
+                "description": "A structure, usually masonry, projecting out from the shore. A jetty may protect a harbor entrance.",
+                "term": "jetty"
+            },
+            {
+                "description": "Small anchor used to reposition a ship or boat by having the anchor's hawser hauled in.",
+                "term": "kedge"
+            },
+            {
+                "description": "The lowest portion of the boat; extends fore and aft along the boats bottom.",
+                "term": "keel"
+            },
+            {
+                "description": "The distance north or south of the equator measured and expressed in degrees.",
+                "term": "latitude"
+            },
+            {
+                "description": "Storage space in or around the stern area.",
+                "term": "lazarette"
+            },
+            {
+                "description": "Direction away from the wind opposite of windward.",
+                "term": "leeward"
+            },
+            {
+                "description": "Sideways movement of a boat caused by wind or current.",
+                "term": "leeway"
+            },
+            {
+                "description": "A buoyant, wearable jacket that, when properly used, will support a person in the water. See PFD (personal floatation device).",
+                "term": "life jacket"
+            },
+            {
+                "description": "Leaning or tilt of a boat toward the side.",
+                "term": "list"
+            },
+            {
+                "description": "A structure having movable gates for ships and boats to pass up and down to different water levels in a canal, river, or tidal basin.",
+                "term": "lock"
+            },
+            {
+                "description": "A record of courses or operation. Also, a device to measure speed.",
+                "term": "log"
+            },
+            {
+                "description": "The distance in degrees east or west of the meridian at Greenwich, England.",
+                "term": "longitude"
+            },
+            {
+                "description": "Making progress through the water.",
+                "term": "making way"
+            },
+            {
+                "description": "Seagoing maps showing depths, buoys, navigation aids, etc.",
+                "term": "marine chart"
+            },
+            {
+                "description": "A single hull boat.",
+                "term": "monohull"
+            },
+            {
+                "description": "An anchor, chain or similar device that holds a boat in one location.",
+                "term": "mooring"
+            },
+            {
+                "description": "One minute of latitude; approximately 6076 feet&mdash;about 1/8 longer than the statute mile of 5280 feet.",
+                "term": "nautical mile"
+            },
+            {
+                "description": "The art and science of conducting a boat safely from one point to another.",
+                "term": "navigation"
+            },
+            {
+                "description": "Recognizable objects on land or sea, such as buoys, towers or lights which are used to fix position to identify safe and unsafe waters.",
+                "term": "navigation aid"
+            },
+            {
+                "description": "The regulations governing the movement of vessels in relation to each other, generally called steering and sailing rules.",
+                "term": "navigation rules"
+            },
+            {
+                "description": "The National Marine Manufacturers Association.",
+                "term": "NNMA"
+            },
+            {
+                "description": "The speed at which a boat travels to produce an imperceptible wake.",
+                "term": "no wake speed"
+            },
+            {
+                "description": "Detachable engine mounted on the stern of a vessel.",
+                "term": "outboard"
+            },
+            {
+                "description": "Over the side and out of the boat.",
+                "term": "overboard"
+            },
+            {
+                "description": "When a vessel passes another vessel from behind.",
+                "term": "overtaking"
+            },
+            {
+                "description": "Inhabiting the upper layers of the open sea.",
+                "term": "pelagic"
+            },
+            {
+                "description": "Personal floatation device. A buoyant personal flotation device used to support a person in the water. See life jacket.",
+                "term": "PFD"
+            },
+            {
+                "description": "A wood, metal or concrete poles driven into the bottom. Craft may be made fast to a pile; it may be used to support a pier or a float.",
+                "term": "piling"
+            },
+            {
+                "description": "See speedometer pickup tube.",
+                "term": "pitot tube"
+            },
+            {
+                "description": "A boat is said to be planing when it is essentially moving over the top of the water rather than through the water.",
+                "term": "planing"
+            },
+            {
+                "description": "A hull designed to lift, thereby reducing friction and increasing efficiency.",
+                "term": "planing hull"
+            },
+            {
+                "description": "A condition in which the bow bounces up and down caused by trimming the engine too far out.",
+                "term": "porpoise"
+            },
+            {
+                "description": "1. The left side of a boat when facing the bow.<br>2. A destination or harbor",
+                "term": "port"
+            },
+            {
+                "description": "Term used for the boat with the right-of-way.",
+                "term": "privileged boat"
+            },
+            {
+                "description": "Term for the boat that has priority in meeting or crossing situations. The stand-on or privileged boat.",
+                "term": "right of way"
+            },
+            {
+                "description": "Typically seen as a collection of nests high in a clump of trees. A breeding colony of seabirds, wading birds, seals, or turtles.",
+                "term": "rookeries"
+            },
+            {
+                "description": "A flat piece hinged vertically near the stern of a boat or ship for steering.",
+                "term": "rudder"
+            },
+            {
+                "description": "Regulations for preventing collisions on the water.",
+                "term": "rules of the road"
+            },
+            {
+                "description": "A through hull valve, a shut off on a plumbing or drain pipe between the vessel's interior and the sea.",
+                "term": "seacock"
+            },
+            {
+                "description": "Also called pitot tube. The plastic device that extends below the bottom of the boat. It connects to the speedometer with plastic flexible tubing.",
+                "term": "speedometer pickup tube"
+            },
+            {
+                "description": "The section of an outboard-equipped boat that is just forward of the transom.",
+                "term": "splashwell"
+            },
+            {
+                "description": "Term for the boat that must maintain course and speed in meeting or crossing situations. The privileged boat.",
+                "term": "stand-on vessel"
+            },
+            {
+                "description": "The right side of the boat when looking toward the bow.",
+                "term": "starboard"
+            },
+            {
+                "description": "The back area of the boat.",
+                "term": "stern"
+            },
+            {
+                "description": "To pack the cargo.",
+                "term": "stow"
+            },
+            {
+                "description": "A casing in which material such as greased wool is compressed around a shaft or axle to form a seal against gas or liquid, used for instance where the propeller shaft of a boat passes through the hull.",
+                "term": "stuffing boxes"
+            },
+            {
+                "description": "A type of trailer braking system designed to automatically actuate when the tow vehicle’s brakes are applied.",
+                "term": "surge brakes"
+            },
+            {
+                "description": "The unit that sends/receives signals for the depth sounder.",
+                "term": "transducer"
+            },
+            {
+                "description": "The transverse beam across the stern.",
+                "term": "transom"
+            },
+            {
+                "description": "Fore to aft and side to side balance of the boat when loaded.",
+                "term": "trim"
+            },
+            {
+                "description": "Boat in motion; i.e., not moored or anchored.",
+                "term": "underway"
+            },
+            {
+                "description": "The United States Coast Guard.",
+                "term": "USCG"
+            },
+            {
+                "description": "A hull with a bottom section shaped like a “V”.",
+                "term": "v-hull"
+            },
+            {
+                "description": "A modified V-hull design with a small, flat area in the keel aft.",
+                "term": "v-pad"
+            },
+            {
+                "description": "A device used to signal the need for assistance such as flags, lights and flares.",
+                "term": "visual distress signal"
+            },
+            {
+                "description": "High waterproof boots, or a waterproof garment for the legs and body. Used especially by anglers when fishing.",
+                "term": "waders"
+            },
+            {
+                "description": "The waves that a boat leaves behind when moving through the water.",
+                "term": "wake"
+            },
+            {
+                "description": "A navigable body of water.",
+                "term": "waterway"
+            },
+            {
+                "description": "To steer off course.",
+                "term": "yaw"
+            }
+        ]
+    },
     "_assessment": {
         "_isPercentageBased": true,
         "_scoreToPass": 75
@@ -128,5 +800,15 @@
             "yes": "Yes",
             "no": "No"
         }
+    },
+    "_start": {
+        "_isEnabled": true,
+        "_startIds": [
+            {
+                "_id": "co-05",
+                "_skipIfComplete": true
+            }
+        ],
+        "_force": true
     }
 }
