@@ -2,18 +2,16 @@ module.exports = function(grunt, options) {
   return {
     dev: {
       options: {
-        name: 'core/js/app',
+        name: 'index',
         baseUrl: '<%= sourcedir %>',
         out: '<%= outputdir %>adapt/js/adapt.min.js',
         cachePath: '<%= outputdir %>.cache',
         // fetch these bower plugins an add them as dependencies to the app.js
         plugins: [
-          '<%= sourcedir %>components/*/bower.json',
-          '<%= sourcedir %>extensions/*/bower.json',
-          '<%= sourcedir %>menu/<%= menu %>/bower.json',
-          '<%= sourcedir %>theme/<%= theme %>/bower.json'
+          '<%= sourcedir %>custom/*/package.json',
+          '<%= sourcedir %>node_modules/*/package.json'
         ],
-        pluginsPath: '<%= sourcedir %>plugins.js',
+        pluginsPath: '<%= sourcedir %>/plugins.js',
         pluginsModule: 'plugins',
         pluginsFilter: function(filepath) {
           return grunt.config('helpers').includedFilter(filepath);
@@ -55,29 +53,32 @@ module.exports = function(grunt, options) {
           coreHelpers: 'core/js/helpers',
           // This library from the media component has a circular reference to core/js/adapt, it should be loaded after Adapt
           // It needs to be moved from the libraries folder to the js folder
-          'libraries/mediaelement-fullscreen-hook': '../libraries/mediaelement-fullscreen-hook'
+          'libraries/mediaelement-fullscreen-hook': '../libraries/mediaelement-fullscreen-hook',
+          'components/': '',
+          'extensions/': '',
+          'theme/': '',
+          'menu/': '',
+          'core': 'adapt-contrib-core'
         },
         generateSourceMaps: true
       },
       // newer configuration
       files: {
         '<%= outputdir %>adapt/js/adapt.min.js': [
-          '<%= sourcedir %>/**/*.js'
+          '<%= sourcedir %>/node_modules/*/js/*.js'
         ]
       }
     },
     compile: {
       options: {
-        name: 'core/js/app',
+        name: 'index',
         baseUrl: '<%= sourcedir %>',
         out: '<%= outputdir %>adapt/js/adapt.min.js',
         cachePath: '<%= outputdir %>.cache',
         // fetch these bower plugins an add them as dependencies to the app.js
         plugins: [
-          '<%= sourcedir %>components/*/bower.json',
-          '<%= sourcedir %>extensions/*/bower.json',
-          '<%= sourcedir %>menu/<%= menu %>/bower.json',
-          '<%= sourcedir %>theme/<%= theme %>/bower.json'
+          '<%= sourcedir %>custom/*/package.json',
+          '<%= sourcedir %>node_modules/*/package.json'
         ],
         pluginsPath: '<%= sourcedir %>/plugins.js',
         pluginsModule: 'plugins',
@@ -121,7 +122,12 @@ module.exports = function(grunt, options) {
           coreHelpers: 'core/js/helpers',
           // This library from the media component has a circular reference to core/js/adapt, it should be loaded after Adapt
           // It needs to be moved from the libraries folder to the js folder
-          'libraries/mediaelement-fullscreen-hook': '../libraries/mediaelement-fullscreen-hook'
+          'libraries/mediaelement-fullscreen-hook': '../libraries/mediaelement-fullscreen-hook',
+          'components/': '',
+          'extensions/': '',
+          'theme/': '',
+          'menu/': '',
+          'core': 'adapt-contrib-core'
         }
       }
     }
