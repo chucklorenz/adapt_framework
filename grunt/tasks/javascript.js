@@ -381,7 +381,7 @@ module.exports = function(grunt) {
           allowAllFormats: true
         })
       ].filter(Boolean),
-      intro: umdImport(),
+      // intro: umdImport(),
       footer: `// Allow ES export default to be exported as amd modules
 window.__AMD = function(id, value) {
   window.define(id, function() { return value; }); // define for external use

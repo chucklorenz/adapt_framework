@@ -1,6 +1,6 @@
 {
     "dependencies": {
-        "adapt-contrib-core": "github:olivermartinfoster/adapt-contrib-core",
+        "adapt-contrib-core": "github:chucklorenz/adapt-contrib-core",
         "adapt-contrib-vanilla": "github:olivermartinfoster/adapt-contrib-vanilla",
         "adapt-contrib-text": "github:olivermartinfoster/adapt-contrib-text",
         "adapt-contrib-narrative": "github:olivermartinfoster/adapt-contrib-narrative",
